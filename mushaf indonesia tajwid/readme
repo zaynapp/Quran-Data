@@ -1,0 +1,19 @@
+Judul: Mushaf Al-Qur'an Standar Indonesia (Tajwid)
+Deskripsi Singkat:
+Folder ini berisi kumpulan data/gambar halaman Al-Qur'an yang disusun berdasarkan format Mushaf Standar Indonesia.
+
+Spesifikasi Teknis:
+
+Jenis: Mushaf Standar Indonesia (15 Baris).
+
+Format: Ayat Pojok (setiap juz diawali dengan ayat pertama di halaman kanan dan berakhir di halaman kiri).
+
+Fitur: Dilengkapi dengan sistem pewarnaan tajwid untuk memudahkan pembelajaran membaca Al-Qur'an sesuai kaidah yang berlaku.
+
+Struktur File:
+halaman sesuai nomor file
+
+(dan seterusnya hingga Juz 30)
+
+Tujuan:
+Data ini dikumpulkan untuk keperluan pengembangan aplikasi, media pembelajaran digital, atau referensi visual yang sesuai dengan standar cetak Mushaf Indonesia yang lazim digunakan oleh masyarakat di Indonesia.
